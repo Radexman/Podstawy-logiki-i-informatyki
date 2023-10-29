@@ -2,7 +2,7 @@
 
 ## **Podstawy Informatyki**
 
--   [ ] Podstawowe koncepcje architektoniczne (John Neumann, Architektura harwardzka).
+-   [x] Podstawowe koncepcje architektoniczne (John Neumann, Architektura harwardzka).
 -   [ ] Znajomość i rozróżnialność architektur typu RISC i CISC.
 -   [ ] Mikroprocesory (jedno i wielordzeniowe) - ogólna koncepcja działania - sposób wykonywania kodu.
 -   [ ] Główny element systemu mikroprocesorowego (pamięć operacyjna czy mikroprocesor? Zastanowić się dla przypadku procesorów wielordzeniowych - czy wtedy jest wiele pamięci operacyjnych?).
