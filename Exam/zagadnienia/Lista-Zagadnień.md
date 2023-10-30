@@ -3,13 +3,13 @@
 ## **Podstawy Informatyki**
 
 -   [x] Podstawowe koncepcje architektoniczne (John Neumann, Architektura harwardzka).
--   [ ] Znajomość i rozróżnialność architektur typu RISC i CISC.
+-   [x] Znajomość i rozróżnialność architektur typu RISC i CISC.
 -   [ ] Mikroprocesory (jedno i wielordzeniowe) - ogólna koncepcja działania - sposób wykonywania kodu.
 -   [ ] Główny element systemu mikroprocesorowego (pamięć operacyjna czy mikroprocesor? Zastanowić się dla przypadku procesorów wielordzeniowych - czy wtedy jest wiele pamięci operacyjnych?).
 -   [ ] Tryby pracy procesorów (np. tryb superwizora i użytkownika).
 -   [ ] Pojęcia: proces, wątek (wskazać na różnice).
 -   [ ] Reset systemu mikroprocesorowego (założenia konstrukcyjne - czy to sprzęt czy oprogramowanie?).
--   [ ] Idea użycia sygnału zefarowego (przykładowo jak się to wykonuje dla częstotliwości 4GHz).
+-   [ ] Idea użycia sygnału zegarowego (przykładowo jak się to wykonuje dla częstotliwości 4GHz).
 -   [ ] "Over clocking" mikroprocesora (jak tego dokonać). Wskazać na zalety i wady. Czy zawsze można?
 -   [ ] Pamięć operacyjna, idea związana z jej użyciem, technologie jej wykonania (pamięci dynamiczne i inne).
 -   [ ] Pamięć podręczna (przykładowo: w jakim celu jest w ogóle używana, skoro jest pamięć operacyjna) jaką stosuje się technologię wykonania przy pamięciach podręcznych.
