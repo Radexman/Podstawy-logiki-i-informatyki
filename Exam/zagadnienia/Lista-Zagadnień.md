@@ -5,7 +5,7 @@
 -   [x] Podstawowe koncepcje architektoniczne (John Neumann, Architektura harwardzka).
 -   [x] Znajomość i rozróżnialność architektur typu RISC i CISC.
 -   [x] Mikroprocesory (jedno i wielordzeniowe) - ogólna koncepcja działania - sposób wykonywania kodu.
--   [ ] Główny element systemu mikroprocesorowego (pamięć operacyjna czy mikroprocesor? Zastanowić się dla przypadku procesorów wielordzeniowych - czy wtedy jest wiele pamięci operacyjnych?).
+-   [x] Główny element systemu mikroprocesorowego (pamięć operacyjna czy mikroprocesor? Zastanowić się dla przypadku procesorów wielordzeniowych - czy wtedy jest wiele pamięci operacyjnych?).
 -   [ ] Tryby pracy procesorów (np. tryb superwizora i użytkownika).
 -   [ ] Pojęcia: proces, wątek (wskazać na różnice).
 -   [ ] Reset systemu mikroprocesorowego (założenia konstrukcyjne - czy to sprzęt czy oprogramowanie?).
