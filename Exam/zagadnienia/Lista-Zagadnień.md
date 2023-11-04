@@ -8,7 +8,7 @@
 -   [x] Główny element systemu mikroprocesorowego (pamięć operacyjna czy mikroprocesor? Zastanowić się dla przypadku procesorów wielordzeniowych - czy wtedy jest wiele pamięci operacyjnych?).
 -   [x] Tryby pracy procesorów (np. tryb superwizora i użytkownika).
 -   [x] Pojęcia: proces, wątek (wskazać na różnice).
--   [ ] Reset systemu mikroprocesorowego (założenia konstrukcyjne - czy to sprzęt czy oprogramowanie?).
+-   [x] Reset systemu mikroprocesorowego (założenia konstrukcyjne - czy to sprzęt czy oprogramowanie?).
 -   [ ] Idea użycia sygnału zegarowego (przykładowo jak się to wykonuje dla częstotliwości 4GHz).
 -   [ ] "Over clocking" mikroprocesora (jak tego dokonać). Wskazać na zalety i wady. Czy zawsze można?
 -   [ ] Pamięć operacyjna, idea związana z jej użyciem, technologie jej wykonania (pamięci dynamiczne i inne).
