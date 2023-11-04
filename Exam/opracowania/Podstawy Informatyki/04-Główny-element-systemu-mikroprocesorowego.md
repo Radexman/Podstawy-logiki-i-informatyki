@@ -2,7 +2,7 @@
 
 **Główny element systemu mikroprocesorowego (pamięć operacyjna czy mikroprocesor? Zastanowić się dla przypadku procesorów wielordzeniowych - czy wtedy jest wiele pamięci operacyjnych?).**
 
-W systemie mikroprocesorowym głównym elementem jest zarówno mikroprocesor, jak i pamięć operactjna RAM, ponieważ oba są kluczowe dla działania systemu komputerowego.
+W systemie mikroprocesorowym głównym elementem jest zarówno mikroprocesor, jak i pamięć operacyjna RAM, ponieważ oba są kluczowe dla działania systemu komputerowego.
 
 Oto argumenty zarówno za, jak i przeciw, oraz jak ta sytuacja ma się w przypadku procesorów wielordzeniowych.
 
@@ -10,15 +10,15 @@ Oto argumenty zarówno za, jak i przeciw, oraz jak ta sytuacja ma się w przypad
 
 1. **Szybki dostęp do danych** - Pamięć operacyjna jest miejscem, gdzie przechowywane są dane, króre są obecnie przetwarzane przez mikroprocesor. Szybki dostęp do danych jest kluczowym dla wydajności systemu.
 
-2. **Duża pojemność pamięci** - Dzięki dużej pojemności pamięci operacyjnej można przechowywać duże ilości danych, króew są potrzebne w trakcie pracy systemu.
+2. **Duża pojemność pamięci** - Dzięki dużej pojemności pamięci operacyjnej można przechowywać duże ilości danych, które są potrzebne w trakcie pracy systemu.
 
 3. **Równoczesny dostęp do różnych danych** - Pamięć operacyjna umożliwia mikroprocesorowi równoczesny dostęp do różnych obszarów pamięci, co jest istotne w przypadku wielu operacji wykonywanych na różnych fragmentach danych.
 
-## **Przeic pamięci operacyjnej jako głównemu elementowi**
+## **Przeiw pamięci operacyjnej jako głównemu elementowi**
 
 1. **Ograniczona przepustowość** - W porównaniu z mikroprocesorem, pamięć operacyjna może mieć mniejszą przepustowość, co może stanowić bottleneck w przypadku bardzo szybkich procesorów.
 
-2. **Wymagane są mechanizmy zarządzania pamięcią** - Aby efektywnie wykorzystać pamięć operacyjną, system musi mieć odpowiednie mechanizmy zarządzania pamięcią, aby alokować i zwalniać obszary pamięci w odpowiednich momentach,
+2. **Wymagane są mechanizmy zarządzania pamięcią** - Aby efektywnie wykorzystać pamięć operacyjną, system musi mieć odpowiednie mechanizmy zarządzania pamięcią, aby zalokować i zwalniać obszary pamięci w odpowiednich momentach,
 
 ## **Procesory wielordzeniowe**
 

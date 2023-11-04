@@ -24,11 +24,11 @@ Mikroprocesor komunikuje się z otoczeniem za pomocą szyny danych i szyny adres
 
 2. **Dekodowanie instrukcji** - mikroprocesor rozumie instrukcje, które odczytał, interpretując je na poziomie elektronicznym.
 
-3. **Wtkonywanie operacji** - mikroprocesor wykonuje operacje zgodnie z zrozumiałymi instrukcjami. Operacje mogą objemować dodawanie, odejmowanie, mnożenie, dzielenie, porównywanie itp.
+3. **Wykonywanie operacji** - mikroprocesor wykonuje operacje zgodnie z zrozumiałymi instrukcjami. Operacje mogą objemować dodawanie, odejmowanie, mnożenie, dzielenie, porównywanie itp.
 
-4. **Zarządzanie danymi** - mikroprocesor przechowuje dane w rejestrach (małe, szybkie obszary pamięci wewnętrznej). Operacje są wykonywane na danych przechowywanych w tych rejestracj.
+4. **Zarządzanie danymi** - mikroprocesor przechowuje dane w rejestrach (małe, szybkie obszary pamięci wewnętrznej). Operacje są wykonywane na danych przechowywanych w tych rejestrach.
 
-5. **Kontrola przepływu programu** - mikroprocesor decyduje, który zestaw instrukcjii ma zostać wykonany na podstawie wyników poprzednich operacji lub innych warunków logicznych.
+5. **Kontrola przepływu programu** - mikroprocesor decyduje, który zestaw instrukcji ma zostać wykonany na podstawie wyników poprzednich operacji lub innych warunków logicznych.
 
 6. **Obsługa przerwań** - mikroprocesor może przerwać aktualnie wykonywany program, aby obsłużyć priorytetowe zadania lub zdarzenia, takie jak wejście/wyjście lub inne sytuacje awaryjne.
 

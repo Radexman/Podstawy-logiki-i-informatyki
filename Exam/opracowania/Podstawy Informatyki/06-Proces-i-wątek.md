@@ -30,7 +30,7 @@ To jednostka wykonawcza w obrębie jednego procesu, będąca kolejnym ciągiem i
 
 -   **Dzielenie przestrzeni adresowej** - wszystkie wątki w jednym procesie współdzielą ten sam obszar pamięci. Oznacza to, że wątki mogą bezpośrednio współpracować i komunikować się ze sobą przez udostępnioną pamięć.
 
--   **Synchronizacja i współdzielenie zasobów** - wątki w ramach tego samego procesu mogą bezpośrednio współdziekić dane i inne zasoby. Jednak równoczesny dostęp do tych zasobów musi być starannie synchronizowanym aby uniknąć konfliktów i zakleszczeń.
+-   **Synchronizacja i współdzielenie zasobów** - wątki w ramach tego samego procesu mogą bezpośrednio współdzielić dane i inne zasoby. Jednak równoczesny dostęp do tych zasobów musi być starannie synchronizowanym aby uniknąć konfliktów i zakleszczeń.
 
 -   **Wykonanie współbieżne** - wątki w ramach tego samego procesu mogą być uruchamiane równolegle na wielu rdzeniach procesu, co pozwala na wydajniejsze wykorzystanie zasobów.
 

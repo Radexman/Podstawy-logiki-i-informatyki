@@ -21,3 +21,13 @@ Istnieją główne tryby pracy procesora:
 -   Mają także możliwość zarządzania pamięcią, obsługiwania przerwań i wyjątków oraz kontrolowania innych funkcji sprzętowych.
 
 -   System operacyjny działa głównie w trybie superwizora.
+
+## **Podsumowanie**
+
+Przełączanie między trybamim jest kluczowe dla zapewnienia bezpieczeństwa i stabliności systemu. To zadanie leży w gestii procesora oraz systemu operacyjnego. W momencie, gdy program wywołuje jakąś operację, która wymaga przejścia do trybu superwizora (np. otwarcie pliku, alokacja pamięci), następuje przełączenie trybu, a kontrola zostaje przekazana do systemu operacyjnego, który wykonuje odpowiednie operacje i zwraca z powrotem do trybu użytkownika.
+
+W trybie użytkownika programy mają ograniczone uprawnienia, co zapobiega przypadkowym lub celowym naruszeniom bezpieczeństwa. Natomiast w trybie superwizora system operacyjny ma pełną kontrolę nad sprzętem i może egzekwować polityki bezpieczeństwa oraz zarządzać zasobami sprzętowymi.
+
+## **Dodatkowe informacje**
+
+Warto zauważyć, że opisane tu tryby są charakterystyczne dla architektury procesorów typu von Neumanna, takich jak x86 czy ARM. Istnieją również inne architektury, które mogą stosować różne mechanizmy kontroli dostępu i tyby pracy.
