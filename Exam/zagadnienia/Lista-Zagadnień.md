@@ -9,7 +9,7 @@
 -   [x] Tryby pracy procesorów (np. tryb superwizora i użytkownika).
 -   [x] Pojęcia: proces, wątek (wskazać na różnice).
 -   [x] Reset systemu mikroprocesorowego (założenia konstrukcyjne - czy to sprzęt czy oprogramowanie?).
--   [ ] Idea użycia sygnału zegarowego (przykładowo jak się to wykonuje dla częstotliwości 4GHz).
+-   [x] Idea użycia sygnału zegarowego (przykładowo jak się to wykonuje dla częstotliwości 4GHz).
 -   [ ] "Over clocking" mikroprocesora (jak tego dokonać). Wskazać na zalety i wady. Czy zawsze można?
 -   [ ] Pamięć operacyjna, idea związana z jej użyciem, technologie jej wykonania (pamięci dynamiczne i inne).
 -   [ ] Pamięć podręczna (przykładowo: w jakim celu jest w ogóle używana, skoro jest pamięć operacyjna) jaką stosuje się technologię wykonania przy pamięciach podręcznych.
