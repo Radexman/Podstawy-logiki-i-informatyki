@@ -7,7 +7,7 @@
 -   [x] Mikroprocesory (jedno i wielordzeniowe) - ogólna koncepcja działania - sposób wykonywania kodu.
 -   [x] Główny element systemu mikroprocesorowego (pamięć operacyjna czy mikroprocesor? Zastanowić się dla przypadku procesorów wielordzeniowych - czy wtedy jest wiele pamięci operacyjnych?).
 -   [ ] Tryby pracy procesorów (np. tryb superwizora i użytkownika).
--   [ ] Pojęcia: proces, wątek (wskazać na różnice).
+-   [x] Pojęcia: proces, wątek (wskazać na różnice).
 -   [ ] Reset systemu mikroprocesorowego (założenia konstrukcyjne - czy to sprzęt czy oprogramowanie?).
 -   [ ] Idea użycia sygnału zegarowego (przykładowo jak się to wykonuje dla częstotliwości 4GHz).
 -   [ ] "Over clocking" mikroprocesora (jak tego dokonać). Wskazać na zalety i wady. Czy zawsze można?

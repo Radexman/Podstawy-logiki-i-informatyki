@@ -30,7 +30,17 @@ To jednostka wykonawcza w obrębie jednego procesu, będąca kolejnym ciągiem i
 
 -   **Dzielenie przestrzeni adresowej** - wszystkie wątki w jednym procesie współdzielą ten sam obszar pamięci. Oznacza to, że wątki mogą bezpośrednio współpracować i komunikować się ze sobą przez udostępnioną pamięć.
 
--   **Synchronizacja i współdzielenie zasobów** - wątki w ramach tego samego procesu mogą bezpośrednio współdziekić dane i inne zasoby. Jednak równoczesny dostęp do tych zasobów musi być starannie
+-   **Synchronizacja i współdzielenie zasobów** - wątki w ramach tego samego procesu mogą bezpośrednio współdziekić dane i inne zasoby. Jednak równoczesny dostęp do tych zasobów musi być starannie synchronizowanym aby uniknąć konfliktów i zakleszczeń.
+
+-   **Wykonanie współbieżne** - wątki w ramach tego samego procesu mogą być uruchamiane równolegle na wielu rdzeniach procesu, co pozwala na wydajniejsze wykorzystanie zasobów.
+
+-   **Zakończenie** - zakończenie wątku nie powoduje zakończenia całego procesu, chyba że jest to ostatni wątek w procesie. Inne wątki w procesie mogą nadal działać.
+
+-   **Kontekst wątku** - każdy wątek ma swój własny kontekst wykonawczy, obejmujący stan rejestru, stosu itp. Wątki współdzielną zasoby procesu, ale mają własne sterty i rejestry.
+
+-   **Korzyści** - umożliwiają łatwe wykorzystanie wielu rdzeni procesora, co może znacznie przyspieszyć wykonanie programów, które mają wiele zadań wykonyanych jednocześnie.
+
+Podsumowująć, procesy i wątki to dwie różne jednostki wykonawcze, które pozwalają programom działać na komputerze. Proces to kontener, który obejmuje kod programu, dane i zasoby, podczas gdy wątek to lżejsza jednostka wykonawcza, która działa w obrębie procesu i współdzieli z nimi zasoby. Wątki pozwalają na efektywne wykorzystanie wielu rdzeni procesora i wykonywanie wielu zadań równolegle.
 
 ## **Dodatkowe informacje**
 
