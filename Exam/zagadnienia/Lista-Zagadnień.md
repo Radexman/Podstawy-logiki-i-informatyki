@@ -12,7 +12,7 @@
 -   [x] Idea użycia sygnału zegarowego (przykładowo jak się to wykonuje dla częstotliwości 4GHz).
 -   [x] "Over clocking" mikroprocesora (jak tego dokonać). Wskazać na zalety i wady. Czy zawsze można?
 -   [x] Pamięć operacyjna, idea związana z jej użyciem, technologie jej wykonania (pamięci dynamiczne i inne).
--   [ ] Pamięć podręczna (przykładowo: w jakim celu jest w ogóle używana, skoro jest pamięć operacyjna) jaką stosuje się technologię wykonania przy pamięciach podręcznych.
+-   [x] Pamięć podręczna (przykładowo: w jakim celu jest w ogóle używana, skoro jest pamięć operacyjna) jaką stosuje się technologię wykonania przy pamięciach podręcznych.
 -   [ ] Pamięć masowa, idea związana z jej użyciem, technologie wykonania (np: HDD, SSD, ...).
 -   [ ] Zalety i wady podstawowych nośników danych: HDD i SSD.
 -   [ ] Partycjonowanie pamięci masowych - w jakim celu, jakie narzędzie inżynierskie do realizacji tych operacji.
