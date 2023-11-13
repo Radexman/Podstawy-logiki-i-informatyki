@@ -2,7 +2,7 @@
 
 **Pamięć masowa, idea związana z jej użyciem, technologie jej wykonania (np. HDD, SSD, ...)**
 
-Pamięć masowa to rodzaj pamięci komputerowej przeznaczonej do długotrwałego przechoywyania danych. Jest to nieodłączny element każdego systemu komputerowego, który umożliwia przechowywanie i odczytywanie informacji nawet po wyłączeniu zasilania. Dwa główne rodzaje pamięci masowej to dyski twarde HDD oraz dyski półrzewodnikowe SSD.
+Pamięć masowa to rodzaj pamięci komputerowej przeznaczonej do długotrwałego przechoywyania danych. Jest to nieodłączny element każdego systemu komputerowego, który umożliwia przechowywanie i odczytywanie informacji nawet po wyłączeniu zasilania. Dwa główne rodzaje pamięci masowej to dyski twarde HDD oraz dyski półprzewodnikowe SSD.
 
 ## **Dyski twarde HDD**
 
@@ -12,7 +12,7 @@ Dysk twardy składa się z wirujących talerzy, na których magnetyczne głowice
 
 ### **Idea użycia**
 
-HDD są powszechnie używane do przechowywania dużych ilości danych, takich jak systemy operacyjne, aplikacjen, multimedia i pliki użytkownika. Ich stosunkowo nisko koszt per gigabajt sprawia, że są atrakcyjne dla osób potrzebujących dużej ilości przestrzeni dyskowej.
+HDD są powszechnie używane do przechowywania dużych ilości danych, takich jak systemy operacyjne, aplikacje, multimedia i pliki użytkownika. Ich stosunkowo nisko koszt per gigabajt sprawia, że są atrakcyjne dla osób potrzebujących dużej ilości przestrzeni dyskowej.
 
 ## **Dyski półprzewodnikowe SSD**
 
