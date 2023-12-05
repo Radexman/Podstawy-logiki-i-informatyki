@@ -15,8 +15,8 @@
 -   [x] Pamięć podręczna (przykładowo: w jakim celu jest w ogóle używana, skoro jest pamięć operacyjna) jaką stosuje się technologię wykonania przy pamięciach podręcznych.
 -   [x] Pamięć masowa, idea związana z jej użyciem, technologie wykonania (np: HDD, SSD, ...).
 -   [x] Zalety i wady podstawowych nośników danych: HDD i SSD.
--   [ ] Partycjonowanie pamięci masowych - w jakim celu, jakie narzędzie inżynierskie do realizacji tych operacji.
--   [ ] Elementy peryferyjne - różne (można sobie opracować jakieś "swoje" - znane i je przedstawić np: USE, Ethernet...).
+-   [x] Partycjonowanie pamięci masowych - w jakim celu, jakie narzędzie inżynierskie do realizacji tych operacji.
+-   [ ] Elementy peryferyjne - różne (można sobie opracować jakieś "swoje" - znane i je przedstawić np: USB, Ethernet...).
 -   [ ] Przerwania, czym są i do czego służą.
 -   [ ] Priorytety systemu przerwań oraz ustawianie ich aktywności (blokowanie/odblokowanie. Przykładowo, czy po RESET mikroprocesora przerwania są zablokowane?).
 -   [ ] Rozróżnialność pojęć: mikroprocesor, mikrokontroler.
