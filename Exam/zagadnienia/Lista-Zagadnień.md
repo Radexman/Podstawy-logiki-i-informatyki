@@ -16,7 +16,7 @@
 -   [x] Pamięć masowa, idea związana z jej użyciem, technologie wykonania (np: HDD, SSD, ...).
 -   [x] Zalety i wady podstawowych nośników danych: HDD i SSD.
 -   [x] Partycjonowanie pamięci masowych - w jakim celu, jakie narzędzie inżynierskie do realizacji tych operacji.
--   [ ] Elementy peryferyjne - różne (można sobie opracować jakieś "swoje" - znane i je przedstawić np: USB, Ethernet...).
+-   [x] Elementy peryferyjne - różne (można sobie opracować jakieś "swoje" - znane i je przedstawić np: USB, Ethernet...).
 -   [ ] Przerwania, czym są i do czego służą.
 -   [ ] Priorytety systemu przerwań oraz ustawianie ich aktywności (blokowanie/odblokowanie. Przykładowo, czy po RESET mikroprocesora przerwania są zablokowane?).
 -   [ ] Rozróżnialność pojęć: mikroprocesor, mikrokontroler.
