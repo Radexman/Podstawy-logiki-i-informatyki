@@ -19,7 +19,7 @@
 -   [x] Elementy peryferyjne - różne (można sobie opracować jakieś "swoje" - znane i je przedstawić np: USB, Ethernet...).
 -   [x] Przerwania, czym są i do czego służą.
 -   [x] Priorytety systemu przerwań oraz ustawianie ich aktywności (blokowanie/odblokowanie. Przykładowo, czy po RESET mikroprocesora przerwania są zablokowane?).
--   [ ] Rozróżnialność pojęć: mikroprocesor, mikrokontroler.
+-   [x] Rozróżnialność pojęć: mikroprocesor, mikrokontroler.
 -   [ ] Plikowe systemy operacyjne (wybór, zastosowania itp.).
 -   [ ] Systemy czasu rzeczywistego i nierzeczywistego (trzeba tylko wiedzieć o istioce rzeczy).
 -   [ ] Podstawowe pojęcia działąnia programu na mikroprocesorze (inicjalizacja, program główny, podprogram, macro, przerwanie).
