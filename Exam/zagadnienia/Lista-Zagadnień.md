@@ -20,9 +20,9 @@
 -   [x] Przerwania, czym są i do czego służą.
 -   [x] Priorytety systemu przerwań oraz ustawianie ich aktywności (blokowanie/odblokowanie. Przykładowo, czy po RESET mikroprocesora przerwania są zablokowane?).
 -   [x] Rozróżnialność pojęć: mikroprocesor, mikrokontroler.
--   [ ] Plikowe systemy operacyjne (wybór, zastosowania itp.).
+-   [x] Plikowe systemy operacyjne (wybór, zastosowania itp.).
 -   [ ] Systemy czasu rzeczywistego i nierzeczywistego (trzeba tylko wiedzieć o istioce rzeczy).
--   [ ] Podstawowe pojęcia działąnia programu na mikroprocesorze (inicjalizacja, program główny, podprogram, macro, przerwanie).
+-   [ ] Podstawowe pojęcia działania programu na mikroprocesorze (inicjalizacja, program główny, podprogram, macro, przerwanie).
 -   [ ] Pojęcie Stosu, przykłady zastosowań.
 -   [ ] Dokładna wiedza o wykonaniu podprogramu.
 -   [ ] Dokładna wiedza o wykonaniu przerwania.
