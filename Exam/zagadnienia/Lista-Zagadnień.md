@@ -18,7 +18,7 @@
 -   [x] Partycjonowanie pamięci masowych - w jakim celu, jakie narzędzie inżynierskie do realizacji tych operacji.
 -   [x] Elementy peryferyjne - różne (można sobie opracować jakieś "swoje" - znane i je przedstawić np: USB, Ethernet...).
 -   [x] Przerwania, czym są i do czego służą.
--   [ ] Priorytety systemu przerwań oraz ustawianie ich aktywności (blokowanie/odblokowanie. Przykładowo, czy po RESET mikroprocesora przerwania są zablokowane?).
+-   [x] Priorytety systemu przerwań oraz ustawianie ich aktywności (blokowanie/odblokowanie. Przykładowo, czy po RESET mikroprocesora przerwania są zablokowane?).
 -   [ ] Rozróżnialność pojęć: mikroprocesor, mikrokontroler.
 -   [ ] Plikowe systemy operacyjne (wybór, zastosowania itp.).
 -   [ ] Systemy czasu rzeczywistego i nierzeczywistego (trzeba tylko wiedzieć o istioce rzeczy).
