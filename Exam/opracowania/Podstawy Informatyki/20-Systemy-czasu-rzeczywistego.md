@@ -12,7 +12,7 @@
 
 **Typy** - Systemy czasu rzeczywistego dzielimy na deterministyczne (gdzie czas odpowiedzi na zdarzenie jest stały) i nieterministyczne (z czasem odpowiedzni zmiennym).
 
-## \*\*Systemy czasu nierzeczywistego (Non-Real-Time-Systems)
+## **Systemy czasu nierzeczywistego (Non-Real-Time-Systems)**
 
 **Charakterystyka** - Systemy, w których przetwarzanie danych nie ma ściśle zdefiniowanych wymagań czasowych.
 
