@@ -23,7 +23,7 @@
 -   [x] Plikowe systemy operacyjne (wybór, zastosowania itp.).
 -   [x] Systemy czasu rzeczywistego i nierzeczywistego (trzeba tylko wiedzieć o istioce rzeczy).
 -   [x] Podstawowe pojęcia działania programu na mikroprocesorze (inicjalizacja, program główny, podprogram, macro, przerwanie).
--   [ ] Pojęcie Stosu, przykłady zastosowań.
+-   [x] Pojęcie Stosu, przykłady zastosowań.
 -   [ ] Dokładna wiedza o wykonaniu podprogramu.
 -   [ ] Dokładna wiedza o wykonaniu przerwania.
 -   [ ] Podprogram a macro - różnice (zalety oraz wady jednego i drugiego).
