@@ -25,7 +25,7 @@
 -   [x] Podstawowe pojęcia działania programu na mikroprocesorze (inicjalizacja, program główny, podprogram, macro, przerwanie).
 -   [x] Pojęcie Stosu, przykłady zastosowań.
 -   [x] Dokładna wiedza o wykonaniu podprogramu.
--   [ ] Dokładna wiedza o wykonaniu przerwania.
+-   [x] Dokładna wiedza o wykonaniu przerwania.
 -   [ ] Podprogram a macro - różnice (zalety oraz wady jednego i drugiego).
 
 ## **Podstawy Logiki**
