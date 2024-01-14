@@ -26,7 +26,7 @@
 -   [x] Pojęcie Stosu, przykłady zastosowań.
 -   [x] Dokładna wiedza o wykonaniu podprogramu.
 -   [x] Dokładna wiedza o wykonaniu przerwania.
--   [ ] Podprogram a macro - różnice (zalety oraz wady jednego i drugiego).
+-   [x] Podprogram a macro - różnice (zalety oraz wady jednego i drugiego).
 
 ## **Podstawy Logiki**
 
