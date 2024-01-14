@@ -30,7 +30,7 @@
 
 ## **Podstawy Logiki**
 
--   [ ] Algebra Boole'a (ze szczególnym uwzględnieniem prawa sklejania i pochłaniania).
+-   [x] Algebra Boole'a (ze szczególnym uwzględnieniem prawa sklejania i pochłaniania).
 -   [ ] Znajomość logicznego działania układów: kombinacyjnych i sekwencyjnych.
 -   [ ] Umijętność zapisu funkcji logicznych w różnych postaciach (równania, tablicy prawdy, siatki Karnaugha, ...).
 -   [ ] Filozofia i praktyka związana z wykorzystaniem siatki Karnaugha do minimalizacji funkcji logicznych.
